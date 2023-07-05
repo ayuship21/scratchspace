@@ -1,2 +1,2 @@
 # scratchspace
-Scratch for YSP!
+Scratch for YSP :)
